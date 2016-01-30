@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkL", "ParkL\ParkL.csproj", "{50227E61-D9D3-403F-85C0-F433F9E33B1D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KainaguaParkLot", "KainaguaParkLot\KainaguaParkLot.vdproj", "{47AC8003-3DA6-4768-9749-1B1198652E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50227E61-D9D3-403F-85C0-F433F9E33B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50227E61-D9D3-403F-85C0-F433F9E33B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50227E61-D9D3-403F-85C0-F433F9E33B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50227E61-D9D3-403F-85C0-F433F9E33B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AC8003-3DA6-4768-9749-1B1198652E03}.Debug|Any CPU.ActiveCfg = Debug
+		{47AC8003-3DA6-4768-9749-1B1198652E03}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
